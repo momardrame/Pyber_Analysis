@@ -1,4 +1,4 @@
-<img src="pic.jpg" alt="drawing" width="300"/>
+<img src="Resource/pic.jpg" alt="drawing" width="300"/>
 
 # Rideshare Analysis
 
